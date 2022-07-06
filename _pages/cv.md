@@ -54,7 +54,7 @@ Teaching
   
 Service and leadership
 ======
-* Meet Coordinator - [Club Swimming at Ohio State](csosu.weebly.com)
+* Meet Coordinator - [Club Swimming at Ohio State](http://csosu.weebly.com)
   * Point 1
   * Point 2
   * Point 3
