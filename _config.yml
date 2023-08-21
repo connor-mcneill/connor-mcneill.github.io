@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Connor McNeill"
 title_separator          : "-"
 name                     : &name "Connor McNeill"
-description              : &description "Phd Student"
+description              : &description "PhD Student"
 url                      : https://connor-mcneill.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "connor-mcneill/connor-mcneill.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Connor McNeill"
   avatar           : "profile.png"
-  bio              : "Undergraduate Student"
-  location         : "Columbus, OH"
-  employer         : "The Ohio State University"
+  bio              : "PhD Student"
+  location         : "Raleigh, NC"
+  employer         : "North Carolina State University"
   pubmed           : 
   googlescholar    : 
-  email            : mcneill.61@osu.edu
+  email            : ctmcnei2@ncsu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
