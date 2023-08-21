@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Connor McNeill"
 title_separator          : "-"
 name                     : &name "Connor McNeill"
-description              : &description "PhD Student"
+description              : &description "Statistics PhD Student"
 url                      : https://connor-mcneill.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "connor-mcneill/connor-mcneill.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Connor McNeill"
   avatar           : "profile.png"
-  bio              : "PhD Student"
+  bio              : "Statistics PhD Student"
   location         : "Raleigh, NC"
   employer         : "North Carolina State University"
   pubmed           : 
