@@ -12,17 +12,29 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Statistics, North Carolina State University (in progress)
 * B.S. in Statistics with Honors, The Ohio State University (2023)
 
 Research Experience
 ======
 * Summer 2022: [Summer Institute for Training in Biostatistics (SIBS)](https://statistics.sciences.ncsu.edu/undergraduate/academic-and-research-opportunities/sibs/)
   * North Carolina State University/Duke University
-  * Pts
+  * Learned the principles of applied biostatistics from recognized experts in the field
+  * Met practicing biostatisticians and physicians engaged in medical research and learned about their research in statistics and biostatistics
+  * Participated in field trips to organizations and companies in the Triangle area (Rho, Inc. and SAS Institute) that employ statisticians and learn first-hand about what they do
+  * Gained hands-on experience working with actual data collected in an internationally recognized study as part of a final research hackathon-style project and lab assignments
+  * Developed and evaluated risk prediction models for recurrent myocardial infarction
+  * Learned about opportunities for graduate study and additional training
+  * Built relationships with fellow cohort members and graduate student mentors
 
 * April 2022: [ASA Datafest at Ohio State](https://data-analytics.osu.edu/datafest)
   * Participant and Winner, Best Visualization
-  * Pts
+  * Worked with a group of students to conduct an analysis of a large, complicated dataset studying the impact of playing a video game designed to decrease risky teenage behavior
+  * Cleaned the large dataset using the tidyverse package and handled missing data
+  * Performed exploratory data analysis by preparing summaries and ggplot visualizations (for which my team won the best visualization award)
+  * Prepared a short video presentation about our analysis for panel of judges
+  * Connected with faculty, graduate students, and industry professional mentors
+
   
 <!---
 Publications
@@ -39,7 +51,7 @@ Talks
 
 --->
   
-Teaching
+Teaching Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -57,21 +69,7 @@ Skills
   * C
 * Probability & Statistics
   
-Service and Leadership
+Recent Work Positions
 ======
-* Meet Coordinator - [Club Swimming at Ohio State](http://csosu.weebly.com)
-  * Organize, advertise, and run annual fall and spring invitationals with several visiting schools and several hundreds of athletes
-  * Keep track of times throughout the season for personal bests and nationals qualifications
-  * Plan and organize travel for three away meets per semester
-  * Serve as member of officer board and as a leader on the team
-  * Assist Nationals Coordinator with annual trip to CCS Nationals Meet
-  * Previously served as Risk Manager (April 2020-2021) 
 
-* Peer Mentor - [Arts & Sciences Honors Program](https://aschonors.osu.edu/)
-  * Mentor first-semester students in the Arts & Sciences Honors Program
-  * Assist with instruction of ASC Honors Freshmen Survey Course
-  * Prepare and present a presentation about transitioning to college (with a personal focus on mental health)
-  * Attend weekly training sessions on campus resources and leadership training
-  * Serve as lead mentor for survey section in Autumn 2022
-  * Assist survey coordinator with various tasks as part of internship in Autumn 2020
 
