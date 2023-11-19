@@ -52,11 +52,11 @@ Recent Work Positions
   * Help students with the technical side of scheduling (Student Information System)
   * Assist students with General Education course selection in regard to curricular goals and interests
   * Aid students with designing a curricular plan that balances academics, student life and wellness
- * Group Swim Lessons Coordinator & Safety Instructor, The Ohio State University
-  * Supervise and schedule staff of 15 swim instructors
-  * Oversee lessons program with 200 participants and assist participants/parents
-  * Lead monthly lifeguarding staff in-service trainings and biannual swim instructor trainings
-  * Teach American Red Cross Lifeguarding, First Aid/CPR, and Water Safety courses
+ * Group Swim Lessons Coordinator & Safety Instructor, The Ohio State University (2019 - 2023)
+   * Supervise and schedule staff of 15 swim instructors
+   * Oversee lessons program with 200 participants and assist participants/parents
+   * Lead monthly lifeguarding staff in-service trainings and biannual swim instructor trainings
+   * Teach American Red Cross Lifeguarding, First Aid/CPR, and Water Safety courses
 
 Skills
 ======
