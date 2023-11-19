@@ -43,16 +43,16 @@ Teaching Experience
 
 Recent Work Positions
 ======
-* Advisory Board Member, College Club Swimming (2023 - present)
+* **Advisory Board Member**, College Club Swimming (2023 - present)
   * Serve as representative for Central Region teams
   * Serve as liaison and advisor to National Championship hosts
   * Evaluate bids for championship meets and determine hosts
-* Academic Success & Enrichment Coordinator, The Ohio State University (2023)
+* **Academic Success & Enrichment Coordinator**, The Ohio State University (2023)
   * Assist first-year students and advisors with scheduling during ASC Honors Orientation
   * Help students with the technical side of scheduling (Student Information System)
   * Assist students with General Education course selection in regard to curricular goals and interests
   * Aid students with designing a curricular plan that balances academics, student life and wellness
- * Group Swim Lessons Coordinator & Safety Instructor, The Ohio State University (2019 - 2023)
+ * **Group Swim Lessons Coordinator & Safety Instructor**, The Ohio State University (2019 - 2023)
    * Supervise and schedule staff of 15 swim instructors
    * Oversee lessons program with 200 participants and assist participants/parents
    * Lead monthly lifeguarding staff in-service trainings and biannual swim instructor trainings
