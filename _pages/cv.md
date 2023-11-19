@@ -15,26 +15,10 @@ Education
 * Ph.D. in Statistics, North Carolina State University (in progress)
 * B.S. in Statistics with Honors, The Ohio State University (2023)
 
+<!---
 Research Experience
 ======
-* Summer 2022: [Summer Institute for Training in Biostatistics (SIBS)](https://statistics.sciences.ncsu.edu/undergraduate/academic-and-research-opportunities/sibs/)
-  * North Carolina State University/Duke University
-  * Learned the principles of applied biostatistics from recognized experts in the field
-  * Met practicing biostatisticians and physicians engaged in medical research and learned about their research in statistics and biostatistics
-  * Participated in field trips to organizations and companies in the Triangle area (Rho, Inc. and SAS Institute) that employ statisticians and learn first-hand about what they do
-  * Gained hands-on experience working with actual data collected in an internationally recognized study as part of a final research hackathon-style project and lab assignments
-  * Developed and evaluated risk prediction models for recurrent myocardial infarction
-  * Learned about opportunities for graduate study and additional training
-  * Built relationships with fellow cohort members and graduate student mentors
-
-* April 2022: [ASA Datafest at Ohio State](https://data-analytics.osu.edu/datafest)
-  * Participant and Winner, Best Visualization
-  * Worked with a group of students to conduct an analysis of a large, complicated dataset studying the impact of playing a video game designed to decrease risky teenage behavior
-  * Cleaned the large dataset using the tidyverse package and handled missing data
-  * Performed exploratory data analysis by preparing summaries and ggplot visualizations (for which my team won the best visualization award)
-  * Prepared a short video presentation about our analysis for panel of judges
-  * Connected with faculty, graduate students, and industry professional mentors
-
+--->
   
 <!---
 Publications
@@ -57,6 +41,23 @@ Teaching Experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Recent Work Positions
+======
+* Advisory Board Member, College Club Swimming (2023 - present)
+  * Serve as representative for Central Region teams
+  * Serve as liaison and advisor to National Championship hosts
+  * Evaluate bids for championship meets and determine hosts
+* Academic Success & Enrichment Coordinator, The Ohio State University (2023)
+  * Assist first-year students and advisors with scheduling during ASC Honors Orientation
+  * Help students with the technical side of scheduling (Student Information System)
+  * Assist students with General Education course selection in regard to curricular goals and interests
+  * Aid students with designing a curricular plan that balances academics, student life and wellness
+ * Group Swim Lessons Coordinator & Safety Instructor, The Ohio State University
+  * Supervise and schedule staff of 15 swim instructors
+  * Oversee lessons program with 200 participants and assist participants/parents
+  * Lead monthly lifeguarding staff in-service trainings and biannual swim instructor trainings
+  * Teach American Red Cross Lifeguarding, First Aid/CPR, and Water Safety courses
+
 Skills
 ======
 * Statistical Programming
@@ -64,12 +65,14 @@ Skills
   * SAS
   * JMP
 * Computer Programming
+  * LaTeX
   * SQL
   * Java
   * C
 * Probability & Statistics
+* Teaching, Tutoring, and Mentoring
+* Teamwork and Project Management
   
-Recent Work Positions
-======
 
+  
 
