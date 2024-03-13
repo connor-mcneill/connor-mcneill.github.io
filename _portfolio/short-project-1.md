@@ -1,6 +1,6 @@
 ---
 title: "Short Project - Application of Bayesian Inference"
-excerpt: "Short Applied Research Project utilizing Bayesian Inference in Clinical Trial Design<br/><img src='/images/short-project-1-clip.png'>"
+excerpt: "Short Applied Research Project utilizing Bayesian Inference and Decision Making <br/><img src='/images/short-project-1-clip.png'>"
 collection: portfolio
 ---
 
