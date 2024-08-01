@@ -10,10 +10,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Here is my CV, most recently updated in July 2024.
+
+<embed src="http://connor-mcneill.com/files/connor-cv_july2024.pdf" width="500" height="375" 
+ type="application/pdf">
+
+
+
+<!--- Education
 ======
 * Ph.D. in Statistics, North Carolina State University (in progress)
 * B.S. in Statistics with Honors, The Ohio State University (2023)
+--->
 
 <!---
 Research Experience
@@ -33,7 +41,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
---->
+
   
 Teaching Experience
 ======
@@ -73,6 +81,5 @@ Skills
 * Teaching, Tutoring, and Mentoring
 * Teamwork and Project Management
   
-
-  
+--->
 
