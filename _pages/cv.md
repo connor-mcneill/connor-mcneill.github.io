@@ -12,8 +12,18 @@ redirect_from:
 
 Here is my CV, most recently updated in July 2024.
 
-<embed src="http://connor-mcneill.com/files/connor-cv_july2024.pdf" width="500" height="375" 
- type="application/pdf">
+ <script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
+ <script type="text/javascript">
+    document.addEventListener("adobe_dc_view_sdk.ready", function()
+    {
+        var adobeDCView = new AdobeDC.View({clientId: "35377ea4ad1940dc9ad1fade614190ce", divId: "adobe-dc-view"});
+        adobeDCView.previewFile(
+       {
+          content:   {location: {url: "https://acrobatservices.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf"}},
+          metaData: {fileName: "Bodea Brochure.pdf"}
+       });
+    });
+ </script>
 
 
 
