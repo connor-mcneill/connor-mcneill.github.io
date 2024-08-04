@@ -1,7 +1,7 @@
 ---
 title: "Short Project - Application of Bayesian Inference"
 excerpt: "Short Applied Research Project utilizing Bayesian Inference and Decision Making <br/><img src='/images/short-project-1-clip.png' width='350'>"
-date: 04/31/2022
+venue: April 30, 2022
 collection: portfolio
 ---
 
