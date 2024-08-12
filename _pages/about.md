@@ -12,4 +12,4 @@ Hi there! I'm Connor McNeill, and I am a Statistics PhD Student at **[North Caro
 
 Outside of my studies, I serve on the Advisory Board of **[College Club Swimming](http://collegeclubswimming.com)** of which I was recently elected to a two-year term. I look forward to working with athletes across the country while being an advocate for fellow graduate students competing at the club level.
 
-My CV (last updated in July 2024) can be found **[here](https://connor-mcneill.com/files/connor-cv_july2024.pdf)**.
+My CV (last updated in August 2024) can be found **[here](https://connor-mcneill.com/files/connor-cv_august2024.pdf)**.
