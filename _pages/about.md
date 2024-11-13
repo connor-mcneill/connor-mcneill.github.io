@@ -12,6 +12,6 @@ Hi there! I'm Connor McNeill, and I am a Statistics PhD Student at **[North Caro
 
 My current research interests are currently quite broad, but largely lie within Bayesian methodology with public health and medical applications. I also am passionate about statistical education and have enjoyed the opportunities that I have had to teach at the undergraduate level.
 
-Outside of my studies, I serve on the Advisory Board of **[College Club Swimming](http://collegeclubswimming.com)** as a representative for the Central (Midwest) Region and . I look forward to working with athletes across the country while being an advocate for fellow graduate students competing at the club level.
+Outside of my studies, I serve on the Advisory Board of **[College Club Swimming](http://collegeclubswimming.com)** as a representative for the Central (Midwest) Region. I look forward to working with athletes across the country while being an advocate for fellow graduate students competing at the club level.
 
 My CV (last updated in August 2024) can be found **[here](https://connor-mcneill.com/files/connor-cv_august2024.pdf)**. My resume is available upon request.
