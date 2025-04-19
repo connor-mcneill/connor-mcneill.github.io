@@ -377,7 +377,7 @@
 
 .toc {
   font-family: $serif;
-  color: $gray;
+  color: $gray;  
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
@@ -434,5 +434,28 @@
     @include breakpoint($medium) {
       display: block;
     }
+  }
+}
+
+/* ==========================================================================
+   Table of Contents Toggle Button (Floating button in top right)
+   ========================================================================== */
+.toc__toggle {
+  background-color: #007acc;  // change to your desired color
+  color: #fff;                // icon color
+
+  border: none;
+  border-radius: 50%;
+  padding: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: #005f99; // darker shade on hover
+    color: #fff;
+  }
+
+  svg {
+    fill: currentColor; // ensures the icon inherits the text color
   }
 }
