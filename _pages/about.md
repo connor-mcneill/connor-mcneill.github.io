@@ -14,4 +14,4 @@ My research interests are in spatial modeling, Bayesian inference, and statistic
 
 Outside of my studies, I serve on the Advisory Board of [College Club Swimming](http://collegeclubswimming.com) as a representative for the Central (Midwest) Region. I have enjoyed working with athletes and clubs from around the country over the past two years.
 
-My CV (last updated in August 2024) can be found [here](https://connor-mcneill.com/files/connor-cv_august2024.pdf). My resume is also available upon request. I can be reached via email and you can find me at the platforms listed on this page. 
+My CV (last updated in May 2025) can be found [here](https://connor-mcneill.com/files/Connor_cv-may-2025.pdf). My resume is also available upon request. I can be reached via email and you can find me at the platforms listed on this page. 
