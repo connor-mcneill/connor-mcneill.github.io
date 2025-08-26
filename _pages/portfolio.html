@@ -11,9 +11,19 @@ author_profile: true
   <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
   <p>{{ project.summary }}</p>
   <p>
-    {% if project.code %}<a href="{{ project.code }}">Code</a>{% endif %}
-    {% if project.paper %} | <a href="{{ project.paper }}">Paper</a>{% endif %}
-    {% if project.slides %} | <a href="{{ project.slides }}">Slides</a>{% endif %}
+  {% assign links = "" %}
+  {% if project.code %}
+    {% assign links = links | append: '<a href="' | append: project.code | append: '">Code</a>' %}
+  {% endif %}
+  {% if project.paper %}
+    {% if links != "" %}{% assign links = links | append: " | " %}{% endif %}
+    {% assign links = links | append: '<a href="' | append: project.paper | append: '">Paper</a>' %}
+  {% endif %}
+  {% if project.slides %}
+    {% if links != "" %}{% assign links = links | append: " | " %}{% endif %}
+    {% assign links = links | append: '<a href="' | append: project.slides | append: '">Slides</a>' %}
+  {% endif %}
+  {{ links }}
   </p>
   <hr>
 {% endfor %}
