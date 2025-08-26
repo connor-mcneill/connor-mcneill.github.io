@@ -1,7 +1,10 @@
 ---
-title: "Short Project - Application of Bayesian Inference"
-excerpt: "Short Applied Research Project utilizing Bayesian Inference and Decision Making <br/><img src='/images/short-project-1-clip.png' width='350'>"
+title: "STAT 3303 Project"
+summary: "Short Applied Research Project utilizing Bayesian Inference and Decision Making"
 date: 2022-04-30
+code: ""
+paper: "https://connor-mcneill.com/files/Final%20Project%20Bayesian%20Analysis%20%26%20Statistical%20Decision%20Making%20Connor.pdf"
+slides: ""
 collection: portfolio
 ---
 
