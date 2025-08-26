@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for project in site.portfolio %}
+{% for project in site.portfolio reversed %}
   <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
   <p>{{ project.summary }}</p>
   <p>
