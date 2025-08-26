@@ -7,10 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Selected Projects</h2>
-
 {% for project in site.portfolio %}
-  <h3>{{ project.title }}</h3>
+  <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
   <p>{{ project.summary }}</p>
   <p>
     {% if project.code %}<a href="{{ project.code }}">Code</a>{% endif %}
