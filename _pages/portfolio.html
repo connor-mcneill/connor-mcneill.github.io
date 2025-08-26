@@ -7,8 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Selected Projects</h2>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% for project in site.projects %}
+  <h3>{{ project.title }}</h3>
+  <p>{{ project.summary }}</p>
+  <p>
+    {% if project.code %}<a href="{{ project.code }}">Code</a>{% endif %}
+    {% if project.paper %} | <a href="{{ project.paper }}">Paper</a>{% endif %}
+    {% if project.slides %} | <a href="{{ project.slides }}">Slides</a>{% endif %}
+  </p>
+  <hr>
 {% endfor %}
-
